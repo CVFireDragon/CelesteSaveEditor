@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CelesteSaveEditor", "TextEditor\CelesteSaveEditor.vbproj", "{95EEC9D7-6DDE-47B9-AB48-2FD1353D0E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95EEC9D7-6DDE-47B9-AB48-2FD1353D0E13}.Debug|x86.ActiveCfg = Debug|x86
+		{95EEC9D7-6DDE-47B9-AB48-2FD1353D0E13}.Debug|x86.Build.0 = Debug|x86
+		{95EEC9D7-6DDE-47B9-AB48-2FD1353D0E13}.Release|x86.ActiveCfg = Release|x86
+		{95EEC9D7-6DDE-47B9-AB48-2FD1353D0E13}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F6615C-D910-4F2B-A56C-95D01069C9E5}
+	EndGlobalSection
+EndGlobal
